@@ -1,0 +1,41 @@
+1. ____ you write code every day?
+Do
+
+2. ____ the API return JSON?
+Does
+
+3. ____ developers use Git?
+Do
+
+4. ____ she fix bugs?
+Do
+
+5. ____ the system process data?
+Does
+
+___________________________________
+
+1. You did this?
+
+2. Did you write the code?
+
+3. Did they delete the code?
+
+4. Did you make that?
+
+5. Did you deploy?
+
+___________________________________
+
+1. Developers don't use SVN.
+
+2. The API don't return XML.
+
+3. She don't writes backend code.
+
+4. The system don't stores passwords.
+
+5. The server don't processes requests.
+
+___________________________________
+
