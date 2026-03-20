@@ -8,7 +8,7 @@ Does
 Do
 
 4. ____ she fix bugs?
-Do
+Does
 
 5. ____ the system process data?
 Does
@@ -29,13 +29,46 @@ ___________________________________
 
 1. Developers don't use SVN.
 
-2. The API don't return XML.
+2. The API doesn't return XML.
 
-3. She don't writes backend code.
+3. She doesn't write backend code.
 
-4. The system don't stores passwords.
+4. The system doesn't store passwords.
 
-5. The server don't processes requests.
+5. The server doesn't processes requests.
 
 ___________________________________
+
+1. We didn't test the system.
+
+2. The server didn't restart.
+
+3. She didn't fix the bug.
+
+4. They didn't push the code.
+
+5. The API didn't respond.
+
+___________________________________
+
+1. Do developers use Docker?
+
+2. Does the server runs Linux?
+
+3. Does she writes documentation?
+
+4. Do they deploy applications?
+
+5. Does the system stores data?
+
+____________________________________
+
+Do you code every day? Yes, i do, but
+very little every day.
+Did you learn programming recently?
+Yes, 8 months later.
+Do you test your code? Maybe, normally yes.
+Damn, is so difficult write a little text, i
+don't have so many intelligence to do this,
+This is so boring.
 
