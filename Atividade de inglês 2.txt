@@ -1,0 +1,15 @@
+go - I go to school every morning. | He goes to school every morning.
+watch - I watch TV every day | She watches TV every day.
+wash - You wash your clothes. | He washes his clothes.
+fix - I fix this. | He fixes this.
+pass - They pass the ball. | She passes the ball.
+eat - I eat pizza every day. | He eats pizza every day.
+drink - You drink soda. | She drinks soda.
+study - I study every night. | He studies every night.
+work - I work at night. | She works at night.
+play - You play this? | He plays this?
+teach - I teach him. | He teaches him.
+brush - I brush my car | She brushes his car.
+relax - I relax in my bed. | He relaxes in his bed.
+miss - You miss this shot. | She misses this shot.
+carry - I carry you. | He carries you.
