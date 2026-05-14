@@ -1,0 +1,99 @@
+Run
+  Simple Present: I run every morning.
+  Present Continuous: I am running in the park now.
+  Question: Are you running today?
+
+Swim
+  Simple Present: They swim in the pool every weekend.
+  Present Continuous: They are swimming now.
+  Question: Is he swimming with his friends?
+
+Sit
+  Simple Present: She sits near the window.
+  Present Continuous: She is sitting on the sofa now.
+  Question: Are you sitting here?
+
+Stop
+  Simple Present: The bus stops near my house.
+  Present Continuous: The car is stopping now.
+  Question: Is the teacher stopping the class?
+
+Plan
+  Simple Present: We plan our vacations every year.
+  Present Continuous: We are planning a party now.
+  Question: Are they planning a trip?
+
+Travel
+  Simple Present: My parents travel a lot.
+  Present Continuous: My brother is traveling this week.
+  Question: Are you traveling tomorrow?
+
+Dance
+  Simple Present: I dance at school events.
+  Present Continuous: She is dancing now.
+  Question: Are they dancing together?
+
+Write
+  Simple Present: He writes stories at night.
+  Present Continuous: He is writing a letter now.
+  Question: Are you writing an email?
+
+Make
+  Simple Present: My mother makes cakes.
+  Present Continuous: She is making dinner now.
+  Question: Are they making a project?
+
+Drive
+  Simple Present: My father drives carefully.
+  Present Continuous: He is driving to work now.
+  Question: Are you driving home?
+
+Come
+  Simple Present: She comes here every day.
+  Present Continuous: She is coming now.
+  Question: Are they coming to the party?
+
+Take
+  Simple Present: I take the bus to school.
+  Present Continuous: He is taking a shower now.
+  Question: Are you taking notes?
+
+Move
+  Simple Present: They move a lot at work.
+  Present Continuous: We are moving to a new house.
+  Question: Is she moving today?
+
+Lie
+  Simple Present: The cat lies on the bed.
+  Present Continuous: The dog is lying on the floor now.
+  Question: Are you lying to me?
+
+Get
+  Simple Present: I get up early every day.
+  Present Continuous: She is getting ready now.
+  Question: Are they getting lunch?
+
+Shop
+  Simple Present: We shop on Saturdays.
+  Present Continuous: They are shopping at the mall now.
+  Question: Are you shopping for clothes?
+
+Begin
+  Simple Present: Classes begin at 7 a.m.
+  Present Continuous: The movie is beginning now.
+  Question: Is the game beginning?
+
+Forget
+  Simple Present: He forgets names easily.
+  Present Continuous: She is forgetting her homework again.
+  Question: Are you forgetting something?
+
+Use
+  Simple Present: I use my computer every day.
+  Present Continuous: She is using my phone now.
+  Question: Are they using the new app?
+
+Live
+  Simple Present: We live in Brazil.
+  Present Continuous: He is living with his uncle now.
+  Question: Are you living here now?
